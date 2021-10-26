@@ -9,7 +9,9 @@ Yes, it is possible using a simple tool called [Eruda](https://github.com/lirili
 
 So let's setup Eruda on our browser to open browser console for any website.
 
-[CONSOLE](https://1.bp.blogspot.com/-_z-9fr1gex8/XtYK6SWo4CI/AAAAAAAAAZM/g5CjFAb1g60FALwoXKDcUj0XcnfEHh8JgCK4BGAsYHg/use%2Bweb%2Bdeveloper%2Bconsole%2Bin%2Bphone%2Bbrowser.png)
+| ![Console](https://github.com/sarbanandadev/Dev-Tools/blob/sarbananda/Inspect%20Element/console.jpg) |
+| --- |
+| [Console](https://github.com/sarbanandadev/Dev-Tools/blob/sarbananda/Inspect%20Element/console.jpg) |
 
 ## Steps to use browser console on phone without PC
 1. Open your phone browser( Chrome is preferred).
@@ -26,17 +28,24 @@ javascript:(function () {
   script.onload = function () {
   eruda.init() } })();
 ```
-[Bookmarks](https://1.bp.blogspot.com/--6x431XdxxM/XtYGBC57h9I/AAAAAAAAAXM/nIKTYW1N2IcYgIBnl32v4BWUQDinQ8krQCK4BGAsYHg/Bookmark%2BInspect%2BElement%2Bon%2Bbrower.png)
+
+| ![Bookmarks](https://github.com/sarbanandadev/Dev-Tools/blob/sarbananda/Inspect%20Element/bookmark.jpg) |
+| --- |
+| [Bookmarks](https://github.com/sarbanandadev/Dev-Tools/blob/sarbananda/Inspect%20Element/bookmark.jpg) |
 
 6. Save the Bookmark.
 7. Go to any site you want to use browser console.
 8. After the site is completely loaded, `Type Inspect Element on the address bar` and select the address we just bookmarked.
 
-[Search](https://1.bp.blogspot.com/-RawPk6dIUJE/XtYGIZW0_jI/AAAAAAAAAXc/F7Arzot8UCohaOcNJfc-7IRnW0SBN_H-wCK4BGAsYHg/open%2BInspect%2BElemnt%2Bin%2Baddress%2Bbar.png)
+| ![Search](https://github.com/sarbanandadev/Dev-Tools/blob/sarbananda/Inspect%20Element/search.jpg) |
+| --- |
+| [Search](https://github.com/sarbanandadev/Dev-Tools/blob/sarbananda/Inspect%20Element/search.jpg) |
 
 9. Now you will `see an icon appear right on your web page`. Click on it to open web developer console tools.
 
-[Tool Button](https://1.bp.blogspot.com/-qbG7cGny608/XtYIyP4zEwI/AAAAAAAAAYk/E95Z-cLiEZ8wJqXUCqbwzIttpXnMUfUuACK4BGAsYHg/use%2Bdeveloper%2Bconsole%2Bin%2Bphone.png)
+| ![Button](https://github.com/sarbanandadev/Dev-Tools/blob/sarbananda/Inspect%20Element/button.jpg) |
+| --- |
+| [Button](https://github.com/sarbanandadev/Dev-Tools/blob/sarbananda/Inspect%20Element/button.jpg) |
 
 ## Conclusion
 This is the simplest method to use web developer console on your mobile browser and run some JavaScript code on any website. Some website does not allow to run external JavaScript on their site through phones but you can try and check.
