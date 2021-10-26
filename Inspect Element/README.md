@@ -21,12 +21,7 @@ So let's setup Eruda on our browser to open browser console for any website.
 5. In URL paste the code below.
 
 ```
-javascript:(function () {
-  var script = document.createElement('script');
-  script.src="//cdn.jsdelivr.net/npm/eruda";
-  document.body.appendChild(script);
-  script.onload = function () {
-  eruda.init() } })();
+javascript:(function () { var script = document.createElement('script'); script.src="//cdn.jsdelivr.net/npm/eruda"; document.body.appendChild(script); script.onload = function () { eruda.init() } })();
 ```
 
 | ![Bookmarks](https://github.com/sarbanandadev/Dev-Tools/blob/sarbananda/Inspect%20Element/bookmark.jpg) |
